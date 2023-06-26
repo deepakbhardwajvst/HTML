@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quote Collection</title>
+</head>
+<body>
+  <h1>Quote Collection</h1>
+  <ul>
+    <li>
+      <blockquote>
+        "Quote 1"
+        <footer>- Author 1</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 2"
+        <footer>- Author 2</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 3"
+        <footer>- Author 3</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 4"
+        <footer>- Author 4</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 5"
+        <footer>- Author 5</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 6"
+        <footer>- Author 6</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 7"
+        <footer>- Author 7</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 8"
+        <footer>- Author 8</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 9"
+        <footer>- Author 9</footer>
+      </blockquote>
+    </li>
+    <li>
+      <blockquote>
+        "Quote 10"
+        <footer>- Author 10</footer>
+      </blockquote>
+    </li>
+  </ul>
+</body>
+</html>

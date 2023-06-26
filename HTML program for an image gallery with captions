@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1>Image Gallery</h1>
+  <div class="image">
+    <img src="image1.jpg" alt="Image 1">
+    <p>Caption 1</p>
+  </div>
+  <div class="image">
+    <img src="image2.jpg" alt="Image 2">
+    <p>Caption 2</p>
+  </div>
+  <div class="image">
+    <img src="image3.jpg" alt="Image 3">
+    <p>Caption 3</p>
+  </div>
+  <div class="image">
+    <img src="image4.jpg" alt="Image 4">
+    <p>Caption 4</p>
+  </div>
+  <div class="image">
+    <img src="image5.jpg" alt="Image 5">
+    <p>Caption 5</p>
+  </div>
+</body>
+</html>

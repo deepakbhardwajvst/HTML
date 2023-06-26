@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historical Battles</title>
+</head>
+<body>
+  <h1>Historical Battles</h1>
+  <ul>
+    <li>
+      <h3>Battle 1</h3>
+      <p>Date: Date 1</p>
+      <p>Description: Description 1</p>
+    </li>
+    <li>
+      <h3>Battle 2</h3>
+      <p>Date: Date 2</p>
+      <p>Description: Description 2</p>
+    </li>
+    <li>
+      <h3>Battle 3</h3>
+      <p>Date: Date 3</p>
+      <p>Description: Description 3</p>
+    </li>
+    <li>
+      <h3>Battle 4</h3>
+      <p>Date: Date 4</p>
+      <p>Description: Description 4</p>
+    </li>
+    <li>
+      <h3>Battle 5</h3>
+      <p>Date: Date 5</p>
+      <p>Description: Description 5</p>
+    </li>
+  </ul>
+</body>
+</html>

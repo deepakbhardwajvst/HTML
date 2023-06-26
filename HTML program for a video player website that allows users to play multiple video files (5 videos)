@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Player</title>
+</head>
+<body>
+  <h1>Video Player</h1>
+  <div>
+    <h3>Video 1</h3>
+    <video src="video1.mp4" controls></video>
+  </div>
+  <div>
+    <h3>Video 2</h3>
+    <video src="video2.mp4" controls></video>
+  </div>
+  <div>
+    <h3>Video 3</h3>
+    <video src="video3.mp4" controls></video>
+  </div>
+  <div>
+    <h3>Video 4</h3>
+    <video src="video4.mp4" controls></video>
+  </div>
+  <div>
+    <h3>Video 5</h3>
+    <video src="video5.mp4" controls></video>
+  </div>
+</body>
+</html>

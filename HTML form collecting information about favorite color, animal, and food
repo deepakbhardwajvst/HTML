@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Favorites</title>
+</head>
+<body>
+  <form>
+    <h2>My Favorites</h2>
+    <label for="color">Favorite Color:</label>
+    <input type="text" id="color" name="color" optional>
+    <label for="animal">Favorite Animal:</label>
+    <select id="animal" name="animal">
+      <option value="dog" selected>Dog</option>
+      <option value="cat">Cat</option>
+      <option value="bird">Bird</option>
+      <option value="rabbit">Rabbit</option>
+    </select>
+    <label for="food">Favorite Food:</label>
+    <input type="text" id="food" name="food" placeholder="Pizza, Tacos, Sushi, etc." required>
+    <input type="submit" value="Save My Favorites">
+  </form>
+</body>
+</html>

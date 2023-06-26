@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artwork Gallery</title>
+  <style>
+    .artwork {
+      display: inline-block;
+      margin: 10px;
+      text-align: center;
+    }
+    .artwork img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+  <h1>Artwork Gallery</h1>
+  <div class="artwork">
+    <img src="artwork1.jpg" alt="Artwork 1">
+    <h3>Title 1</h3>
+    <p>Description 1</p>
+  </div>
+  <div class="artwork">
+    <img src="artwork2.jpg" alt="Artwork 2">
+    <h3>Title 2</h3>
+    <p>Description 2</p>
+  </div>
+  <div class="artwork">
+    <img src="artwork3.jpg" alt="Artwork 3">
+    <h3>Title 3</h3>
+    <p>Description 3</p>
+  </div>
+  <div class="artwork">
+    <img src="artwork4.jpg" alt="Artwork 4">
+    <h3>Title 4</h3>
+    <p>Description 4</p>
+  </div>
+  <div class="artwork">
+    <img src="artwork5.jpg" alt="Artwork 5">
+    <h3>Title 5</h3>
+    <p>Description 5</p>
+  </div>
+  <div class="artwork">
+    <img src="artwork6.jpg" alt="Artwork 6">
+    <h3>Title 6</h3>
+    <p>Description 6</p>
+  </div>
+  <div class="artwork">
+    <img src="artwork7.jpg" alt="Artwork 7">
+    <h3>Title 7</h3>
+    <p>Description 7</p>
+  </div>
+  <div class="artwork">
+    <img src="artwork8.jpg" alt="Artwork 8">
+    <h3>Title 8</h3>
+    <p>Description 8</p>
+  </div>
+</body>
+</html>

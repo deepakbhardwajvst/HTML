@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pricing Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Pricing Table</h1>
+  <table>
+    <tr>
+      <th>Plan</th>
+      <th>Price</th>
+      <th>Features</th>
+    </tr>
+    <tr>
+      <td>Basic</td>
+      <td>$9.99/month</td>
+      <td>Feature 1, Feature 2</td>
+    </tr>
+    <tr>
+      <td>Standard</td>
+      <td>$19.99/month</td>
+      <td>Feature 1, Feature 2, Feature 3</td>
+    </tr>
+    <tr>
+      <td>Premium</td>
+      <td>$29.99/month</td>
+      <td>Feature 1, Feature 2, Feature 3, Feature 4</td>
+    </tr>
+    <tr>
+      <td>Enterprise</td>
+      <td>Custom</td>
+      <td>Custom features</td>
+    </tr>
+    <tr>
+      <td>Free</td>
+      <td>Free</td>
+      <td>Basic features</td>
+    </tr>
+  </table>
+</body>
+</html>

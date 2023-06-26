@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Gallery</title>
+  <style>
+    .thumbnail {
+      display: inline-block;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Video Gallery</h1>
+  <div class="thumbnail">
+    <a href="video1.mp4" target="_blank">
+      <img src="thumbnail1.jpg" alt="Video 1">
+    </a>
+    <p>Video 1</p>
+  </div>
+  <div class="thumbnail">
+    <a href="video2.mp4" target="_blank">
+      <img src="thumbnail2.jpg" alt="Video 2">
+    </a>
+    <p>Video 2</p>
+  </div>
+  <div class="thumbnail">
+    <a href="video3.mp4" target="_blank">
+      <img src="thumbnail3.jpg" alt="Video 3">
+    </a>
+    <p>Video 3</p>
+  </div>
+  <div class="thumbnail">
+    <a href="video4.mp4" target="_blank">
+      <img src="thumbnail4.jpg" alt="Video 4">
+    </a>
+    <p>Video 4</p>
+  </div>
+  <div class="thumbnail">
+    <a href="video5.mp4" target="_blank">
+      <img src="thumbnail5.jpg" alt="Video 5">
+    </a>
+    <p>Video 5</p>
+  </div>
+</body>
+</html>

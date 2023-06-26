@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<body>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>City</th>
+    </tr>
+    <tr>
+      <td>John Doe</td>
+      <td>25</td>
+      <td>New York</td>
+    </tr>
+    <tr>
+      <td>Jane Smith</td>
+      <td>30</td>
+      <td>London</td>
+    </tr>
+    <tr>
+      <td>Mark Johnson</td>
+      <td>40</td>
+      <td>Tokyo</td>
+    </tr>
+  </table>
+</body>
+</html>

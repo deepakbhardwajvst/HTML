@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Programming Languages</title>
+</head>
+<body>
+  <h1>Programming Languages</h1>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Year of Creation</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>1995</td>
+      <td>A high-level, interpreted programming language for the web.</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>1991</td>
+      <td>A versatile, general-purpose programming language.</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>1995</td>
+      <td>A popular object-oriented programming language.</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>1983</td>
+      <td>A powerful, general-purpose programming language.</td>
+    </tr>
+    <tr>
+      <td>Ruby</td>
+      <td>1995</td>
+      <td>A dynamic, reflective programming language.</td>
+    </tr>
+  </table>
+</body>
+</html>

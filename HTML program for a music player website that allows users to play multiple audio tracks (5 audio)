@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music Player</title>
+</head>
+<body>
+  <h1>Music Player</h1>
+  <ul>
+    <li>
+      <h3>Song 1</h3>
+      <audio src="song1.mp3" controls></audio>
+    </li>
+    <li>
+      <h3>Song 2</h3>
+      <audio src="song2.mp3" controls></audio>
+    </li>
+    <li>
+      <h3>Song 3</h3>
+      <audio src="song3.mp3" controls></audio>
+    </li>
+    <li>
+      <h3>Song 4</h3>
+      <audio src="song4.mp3" controls></audio>
+    </li>
+    <li>
+      <h3>Song 5</h3>
+      <audio src="song5.mp3" controls></audio>
+    </li>
+  </ul>
+</body>
+</html>
